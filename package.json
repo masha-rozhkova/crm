@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/masha-rozhkova/crm/issues"
   },
-  "homepage": "https://github.com/masha-rozhkova/crm#readme"
+  "homepage": "https://github.com/masha-rozhkova/crm#readme",
+  "dependencies": {
+    "mongodb": "^2.2.5"
+  }
 }
