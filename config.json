@@ -1,4 +1,5 @@
 {
   "port": 3000,
-  "dburl": "mongodb://192.168.0.106:27017/"
+  "connectionString": "mongodb://192.168.0.106:27017/",
+  "dbName": "crm"
 }
