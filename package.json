@@ -22,6 +22,15 @@
   },
   "homepage": "https://github.com/masha-rozhkova/crm#readme",
   "dependencies": {
-    "mongodb": "^2.2.5"
+    "browser-sync": "^2.14.0",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sass-glob": "^1.0.6",
+    "gulp-watch": "^4.3.9",
+    "mongodb": "^2.2.5",
+    "pug": "^2.0.0-beta5",
+    "run-sequence": "^1.2.2"
   }
 }
