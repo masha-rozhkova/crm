@@ -1,0 +1,24 @@
+{
+  "name": "crm-for-school",
+  "version": "0.0.1",
+  "description": "Crm system for schools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masha-rozhkova/crm.git"
+  },
+  "keywords": [
+    "node",
+    "crm",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masha-rozhkova/crm/issues"
+  },
+  "homepage": "https://github.com/masha-rozhkova/crm#readme"
+}
